@@ -1,2 +1,2 @@
 # Food_Lookup
-My first Rect Project!
+My first React Project!
